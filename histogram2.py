@@ -5,7 +5,7 @@ Copyright (c) 2016 Callie Enfield
 
 License: MIT
 
-<brief description of the code>
+This code will create another histogram, but this time with table lines and headings.
 """
 
 n = [4, 9, 13, 5]

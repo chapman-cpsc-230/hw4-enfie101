@@ -5,7 +5,7 @@ Copyright (c) 2016 Callie Enfield
 
 License: MIT
 
-<brief description of the code>
+This code will tell how many digits are in a given number, including negative signs.
 """
 
 def digits(n):

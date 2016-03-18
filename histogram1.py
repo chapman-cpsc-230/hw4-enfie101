@@ -5,7 +5,7 @@ Copyright (c) 2016 Callie Enfield
 
 License: MIT
 
-<brief description of the code>
+This code will produce a histogram made of asterisks given the values in the original list.
 """
 
 ls = [4, 9, 13, 5]
